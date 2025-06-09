@@ -1,5 +1,5 @@
 
-<h2 align="center" style="font-family: Rubik 80s Fade">📊 wizisergio GitHub Stats 📊</h2>
+<h2 align="center" style="font-family: Rubik 80s Fade">📊 WiZiSergio GitHub estadísticas 📊</h2>
 
 <br />
 <div width="100%" style="margin: 20px" align="center">
