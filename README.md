@@ -5,16 +5,16 @@
 <div width="100%" style="margin: 20px" align="center">
   <img
     height="180"
-    src="https://stats.hedystia.com/api?username=wizisergio&theme=synthwave"
+    src="https://stats.hedystia.com/api?username=wizisergio&theme=tokyonight"
   />
   <br />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizisergio&layout=compact&theme=dracula&langs_count=9&border_color=61dafb&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizisergio&layout=compact&theme=tokyonight&langs_count=9&border_color=61dafb&border_radius=10"
   />
   <img
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=wizisergio&theme=dracula&count-private=true&v=2&border=61dafb&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=wizisergio&theme=tokyonight&count-private=true&v=2&border=61dafb&border_radius=10"
   />
 </div>
 <hr />
