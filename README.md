@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" align="left" title="Discord Logo" alt="Discord" width="40"  />
   </a>
   <a href="https://www.instagram.com/wizisergio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" width="40"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" title="Instagram Logo" alt="instagram logo" width="40"  />
   </a>
   <a href="https://www.paypal.com/paypalme/sergiomadrid135" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="40" alt="paypal logo"  />
