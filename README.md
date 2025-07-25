@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wizisergio/wizisergio/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/wizisergio/wizisergio/output/snake.svg](https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg)" alt="Snake animation" />
 
 ###
 
