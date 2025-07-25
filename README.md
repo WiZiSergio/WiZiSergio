@@ -96,8 +96,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg">
+  <source srcset="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg">
   <img alt="pacman contribution graph" src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/pacman.svg">
 </picture>
 
