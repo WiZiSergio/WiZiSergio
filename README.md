@@ -79,13 +79,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" align="left" width="35"  />
   </a>
   <a href="https://www.twitch.tv/WiZiSergio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" align="left" alt="twitch logo" width="35"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" align="left" width="35"  />
   </a>
   <a href="https://x.com/WiZiSergio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" align="left" alt="twitter logo" width="35"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" align="left" width="35"  />
   </a>
   <a href="https://www.youtube.com/@WiZiSergio18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" align="left" alt="youtube logo" width="35"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" align="left" width="35"  />
   </a>
 </div>
 
