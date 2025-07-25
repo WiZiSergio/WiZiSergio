@@ -67,7 +67,7 @@
 
 <div align="left">
   <a href="https://discord.gg/users/777821915184234546" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" align="left" alt="discord logo" width="35"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" align="left" width="35"  />
   </a>
   <a href="https://www.instagram.com/wizisergio/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" align="left" alt="instagram logo" width="35"  />
